@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "soph",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -496,7 +496,7 @@
             "overlayOpacity": 0.5
           },
           "title": "yes, digital marketing can be this simple.",
-          "text": "<br>1. click \"hire us!\"<br>2. pay the one-time fee<br>3. fill out the client brief<br>4. approve our proposal<br>5. relax. we got this.",
+          "text": "<br>1. click \"hire us!\"<br>2. pay the one-time fee<br>3. fill out our client brief<br>4. approve our proposal<br>5. relax. we got this.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
           "_tags": [
             "Theme"
@@ -672,7 +672,7 @@
           "description4": "",
           "button1": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/1-month-360-digital-campaign\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">hire us!</a> <a data-app-btn=\"true\" href=\"page1.html#pricing-table2-r\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "button3": " <a data-app-btn=\"true\" href=\"page1.html#pricing-table2-r\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "button3": " <a data-app-btn=\"true\" href=\"page1.html#pricing-table2-r\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">email</a> <a data-app-btn=\"true\" href=\"tel:+1-647-933-5576\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">phone</a>",
           "button2": "<a data-app-btn=\"true\" href=\"http://797digital.bigcartel.com/product/creative-ad-pack\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">hire us!</a> <a data-app-btn=\"true\" href=\"page1.html#pricing-table2-r\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "_tags": [
             "Theme"
@@ -705,7 +705,7 @@
           "period4": "",
           "list1": "<b>4 week campaign focused on hard conversions. includes native advertising, email marketing and pr in addition to community growth.</b>",
           "list2": "<b>our creative ad package includes 1 video (15 secs), 1 instagram ad, 1 facebook ad and 1 twitter ad. unified theme.</b>",
-          "list3": "<b>have something else in mind? let;</b><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "list3": "<b>have something else in mind? no problem. we're glad to make you a custom package. send us an email or call us at the number below.</b><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-r"
@@ -1515,22 +1515,22 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/untitlweeeeewed-2-2000x1328.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitlweeeeewed-2-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitlegrettted-2-2000x1329.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitlegrettted-2-2000x1329-800x531.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/untitlweeeeewed-2-2000x1328.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitlweeeeewed-2-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitlegrettted-2-2000x1329.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitlegrettted-2-2000x1329-800x531.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
